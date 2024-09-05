@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background-color: black;
+    color: white;
+    padding: 15px;
+    
+}
+
+li,h1,ul{
+    display: inline;
+}
+h1{
+    color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    list-style-position: inside;
+    padding: 5px;
+}
+ul{
+    margin-left: 60%;
+}
+
+ul li{
+    font-size: 1.2rem;
+    margin: 1rem 0;
+    cursor: pointer;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+    font-size: larger;
+    padding: 15px;
+    
+}
+h2{
+    color: rgb(10, 10, 10);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    list-style-position: inside;
+    padding: 5px;
+}
